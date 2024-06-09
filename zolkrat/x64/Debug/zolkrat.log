@@ -1,0 +1,4 @@
+﻿LINK : warning LNK4217: symbol 'unlink' defined in 'zolkrat.obj' is imported by 'vncserver.lib(rfbserver.obj)' in function 'rfbProcessFileTransfer'
+LINK : warning LNK4217: symbol 'open' defined in 'zolkrat.obj' is imported by 'vncserver.lib(rfbserver.obj)' in function 'rfbProcessFileTransfer'
+LINK : warning LNK4217: symbol 'getpid' defined in 'zolkrat.obj' is imported by 'vncserver.lib(vncauth.obj)' in function 'rfbRandomBytes'
+  zolkrat.vcxproj -> D:\workplace\vnc\zolkrat\x64\Debug\zolkrat.exe

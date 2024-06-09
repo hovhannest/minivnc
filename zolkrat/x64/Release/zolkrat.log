@@ -1,0 +1,8 @@
+﻿cl : command line  warning D9025: overriding '/sdl' with '/GS-'
+  zolkrat.cpp
+D:\workplace\vnc\zolkrat\zolkrat\zolkrat.cpp(100,22): warning C4311: 'type cast': pointer truncation from 'HANDLE' to 'int'
+D:\workplace\vnc\zolkrat\zolkrat\zolkrat.cpp(100,22): warning C4302: 'type cast': truncation from 'HANDLE' to 'int'
+  Generating code
+D:\workplace\vnc\zolkrat\zolkrat\zolkrat.cpp(475): warning C4700: uninitialized local variable 'argv' used
+  Finished generating code
+  zolkrat.vcxproj -> D:\workplace\vnc\zolkrat\x64\Release\zolkrat.exe
